@@ -1,0 +1,11 @@
+G:\测试项目\lbja2Test\notepad++\bin\Debug\notepad++.exe.config
+G:\测试项目\lbja2Test\notepad++\bin\Debug\notepad++.exe
+G:\测试项目\lbja2Test\notepad++\bin\Debug\notepad++.pdb
+G:\测试项目\lbja2Test\notepad++\bin\Debug\interfaceDll.dll
+G:\测试项目\lbja2Test\notepad++\bin\Debug\interfaceDll.pdb
+G:\测试项目\lbja2Test\notepad++\obj\Debug\notepad++.csprojResolveAssemblyReference.cache
+G:\测试项目\lbja2Test\notepad++\obj\Debug\notepad__.Form1.resources
+G:\测试项目\lbja2Test\notepad++\obj\Debug\notepad__.Properties.Resources.resources
+G:\测试项目\lbja2Test\notepad++\obj\Debug\notepad++.csproj.GenerateResource.Cache
+G:\测试项目\lbja2Test\notepad++\obj\Debug\notepad++.exe
+G:\测试项目\lbja2Test\notepad++\obj\Debug\notepad++.pdb

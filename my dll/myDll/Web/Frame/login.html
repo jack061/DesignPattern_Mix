@@ -1,0 +1,171 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>欢迎使用中泰欣隆业务管理系统</title>
+<link rel="StyleSheet" href="/Themes/Styles/public.css" type="text/css" />
+<link rel="StyleSheet" href="/Themes/Styles/style.css" type="text/css" />
+<link href="/Themes/Styles/login.css" rel="stylesheet" type="text/css" />
+<script src="/Themes/Scripts/jquery-1.8.2.min.js" type="text/javascript"></script>
+<script src="/Themes/Scripts/FunctionJS.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        //回车键
+        document.onkeydown = function (e) {
+            if (!e) e = window.event; //火狐中是 window.event
+            if ((e.keyCode || e.which) == 13) {
+                var obtnSearch = document.getElementById("Log_Submit")
+                obtnSearch.focus(); //让另一个控件获得焦点就等于让文本输入框失去焦点
+                obtnSearch.click();
+            }
+        }
+        //初始化
+        $(function () {
+            $("#txtCode").bind('keyup', function () {
+                //                if ($("#txtCode").val().length == 4) {
+                //                    return CheckUserDataValid();
+                //                }
+            });
+            clearCache();
+        })
+        function LoginBtn() {
+            var name = $("#txtUserName").val();
+            var pwd = $("#txtUserPwd").val();
+            var code = $("#txtCode").val();
+            $("#errorMsg0").html("");
+            $("#errorMsg1").html("");
+            $("#errorMsg2").html("");
+            if (name == "") {
+                $("#txtUserName").focus();
+                $("#errorMsg0").html("账户不能为空");
+                return false;
+            } else if (pwd == "") {
+                $("#txtUserPwd").focus();
+                $("#errorMsg1").html("密码不能为空");
+                return false;
+            } else if (code == "") {
+                $("#txtCode").focus();
+                $("#errorMsg2").html("验证码不能为空");
+                return false;
+            } else {
+                return true;
+            }
+        }
+        /**
+        数据验证完整性
+        **/
+        function CheckUserDataValid() {
+            if (!LoginBtn()) {
+                return false;
+            }
+            else {
+                CheckingLogin(1);
+                var userName = $("#txtUserName").val();
+                var userPwd = $("#txtUserPwd").val();
+                var code = $("#txtCode").val();
+                var parm = 'action=login&user_Account=' + escape(userName) + '&userPwd=' + escape(userPwd) + '&code=' + escape(code);
+                getAjax('/ashx/Login/Login.ashx', parm, function (rs) {
+                    if (parseInt(rs) == 1) {
+                        $("#txtCode").focus();
+                        $("#errorMsg2").html("验证码输入不正确");
+                        CheckingLogin(0);
+                        ToggleCode("Verify_codeImag", '/ashx/Login/Verify_code.ashx');
+                        return false;
+                    } else if (parseInt(rs) == 2) {
+                        $("#txtUserName").focus();
+                        $("#errorMsg0").html("账户被锁,联系管理员");
+                        CheckingLogin(0);
+                        return false;
+                    } else if (parseInt(rs) == 4) {
+                        $("#txtUserName").focus();
+                        $("#errorMsg0").html("账户或密码有错误");
+                        CheckingLogin(0);
+                        return false;
+                    } else if (parseInt(rs) == 5) {
+                        $("#txtUserName").focus();
+                        $("#errorMsg0").html("账户已超有效期,联系管理员");
+                        CheckingLogin(0);
+                        return false;
+                    } else if (parseInt(rs) == 6) {
+                        $("#txtUserName").focus();
+                        $("#errorMsg0").html("账号不存在");
+                        CheckingLogin(0);
+                        return false;
+                    } else if (parseInt(rs) == 7) {
+                        $("#txtUserName").focus();
+                        $("#errorMsg0").html("多次登陆失败被锁定，请稍后再次登陆。");
+                        CheckingLogin(0);
+                        return false;
+                    } else if (parseInt(rs) == 3) {
+                        setInterval(Load, 1000);
+                    } else {
+                        CheckingLogin(0);
+                        alert('服务器连接不上,联系管理员！');
+                        window.location.href = window.location.href.replace('#', '');
+                        return false;
+                    }
+                });
+            }
+        }
+        //登陆加载
+        function Load() {
+            window.location.href = 'index.aspx';
+            return false;
+        }
+        //清空
+        function resetInput() {
+            $("#txtUserName").focus(); //默认焦点
+            $("#txtUserName").val("");
+            $("#txtUserPwd").val("");
+        }
+        function CheckingLogin(id) {
+            if (id == 1) {
+                //$("#Log_Submit").attr("disabled", "disabled")
+                //$("#Log_Submit").attr("class", "signload");
+                $(".load").show();
+            } else {
+                //$("#Log_Submit").attr("disabled", "")
+                //$("#Log_Submit").attr("class", "sign");
+                $(".load").hide();
+            }
+        }
+
+        function clearCache() {
+            $.ajax({
+                cache: true,
+                type: "POST",
+                url: '/Frame/Frame.ashx?action=ClearClientPageCache',
+                async: false,
+                error: function (data) {
+                },
+                success: function (data) {
+                }
+            });
+        }
+    </script>
+
+</head> 
+
+<body class="loginbg">
+<div class="login">
+     <div class="login_top"></div>
+     <div class="login_body">
+          <form action="">
+                <div class="zhanghu"><b>账户</b><input id="txtUserName" name="username" type="text" /><span id="errorMsg0" class="errorMsg"></span></div>
+                <div class="mima"><b>密码</b><input id="txtUserPwd" name="password" type="password" /><span id="errorMsg1" class="errorMsg"></span></div>
+ 
+                <div class="yanzhengma"><b>验证码</b><input id="txtCode" name="yzm" type="text" />
+              <img src="../ashx/Login/Verify_code.ashx" id="Verify_codeImag" width="70" height="22"
+               style="margin-top: 0px; vertical-align: top; cursor: pointer;" 
+               onclick="ToggleCode(this.id, '../ashx/Login/Verify_code.ashx');return false;" />                  
+                    <span id="errorMsg2" class="errorMsg"></span></div>
+                <div class="tijiao">
+                    <b><input id="Checkbox1" type="checkbox" />&nbsp;&nbsp;记住密码</b>
+                    <input id="Log_Submit"  onclick="return CheckUserDataValid();" class="sub" value="" />
+                    <span id="errorMsg3" class="errorMsg"></span>
+                </div>
+          </form>
+     </div>
+</div>
+
+</body>
+</html>

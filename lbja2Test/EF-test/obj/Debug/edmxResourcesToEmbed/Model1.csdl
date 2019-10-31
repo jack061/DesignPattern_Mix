@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ZtTradingModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Econtract_uploadPath">
+    <Key>
+      <PropertyRef Name="contractNo" />
+    </Key>
+    <Property Name="contractNo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="filePath" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="createman" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="createdate" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityContainer Name="ZtTradingEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Econtract_uploadPath" EntityType="Self.Econtract_uploadPath" />
+  </EntityContainer>
+</Schema>

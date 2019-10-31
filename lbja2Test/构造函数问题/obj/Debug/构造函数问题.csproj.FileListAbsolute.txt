@@ -1,0 +1,6 @@
+G:\测试项目\lbja2Test\构造函数问题\bin\Debug\构造函数问题.exe.config
+G:\测试项目\lbja2Test\构造函数问题\bin\Debug\构造函数问题.exe
+G:\测试项目\lbja2Test\构造函数问题\bin\Debug\构造函数问题.pdb
+G:\测试项目\lbja2Test\构造函数问题\obj\Debug\构造函数问题.exe
+G:\测试项目\lbja2Test\构造函数问题\obj\Debug\构造函数问题.pdb
+G:\测试项目\lbja2Test\构造函数问题\obj\Debug\构造函数问题.csprojResolveAssemblyReference.cache

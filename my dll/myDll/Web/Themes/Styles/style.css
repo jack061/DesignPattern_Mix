@@ -1,0 +1,19 @@
+@charset "gb2312";
+body{ margin:0 auto;padding:0;font-family:"Î¢ÈíÑÅºÚ";font-size:12px;}
+.loginbg {background:url(../Images/Login/background.jpg) no-repeat center top;}
+/*login*/
+.login{width:1097px;margin:0 auto;padding-top:155px;}
+.login .login_top{width:100%;height:52px;display:block;background:url(../Images/Login/logo.png) no-repeat center top;}
+.login .login_body{width:100%;height:222px;display:block;background:url(../Images/Login/loginbg.png) no-repeat center top;position:relative;margin-top:40px;}
+.login .login_body .zhanghu{height:30px;width:185px;position:absolute;right:452px;top:32px;}
+.login .login_body .zhanghu b{width:40px;height:30px;line-height:30px;font-size:0px;float:left;display:block;overflow:hidden; text-indent:999;}
+.login .login_body .zhanghu input{width:135px;height:21px;padding:3px 5px;background:none;border:none;line-height:21px;}
+.login .login_body .mima{height:30px;width:185px;position:absolute;right:452px;top:79px;}
+.login .login_body .mima b{width:40px;height:30px;line-height:30px;font-size:0px;float:left;display:block;overflow:hidden; text-indent:999;}
+.login .login_body .mima input{width:135px;height:21px;padding:3px 5px;background:none;border:none;line-height:21px;}
+.login .login_body .yanzhengma{height:30px;width:185px;position:absolute;right:452px;top:125px;}
+.login .login_body .yanzhengma b{width:40px;height:30px;line-height:30px;font-size:0px;float:left;display:block;overflow:hidden; text-indent:999;}
+.login .login_body .yanzhengma input{width:58px;height:21px;padding:3px 5px;background:none;border:none;line-height:21px;}
+.login .login_body .tijiao{height:27px;width:183px;position:absolute;right:452px;top:172px;}
+.login .login_body .tijiao b{display:inline-block;height:27px;line-height:28px;width:94px;color:#fff;}
+.login .login_body .tijiao .sub{width:84px;height:27px;display:block;border:none;background:none;float:right; cursor:pointer;}

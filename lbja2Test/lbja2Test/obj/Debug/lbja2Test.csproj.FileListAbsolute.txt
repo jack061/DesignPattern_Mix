@@ -1,0 +1,6 @@
+G:\测试项目\lbja2Test\lbja2Test\bin\Debug\lbja2Test.exe.config
+G:\测试项目\lbja2Test\lbja2Test\bin\Debug\lbja2Test.exe
+G:\测试项目\lbja2Test\lbja2Test\bin\Debug\lbja2Test.pdb
+G:\测试项目\lbja2Test\lbja2Test\obj\Debug\lbja2Test.exe
+G:\测试项目\lbja2Test\lbja2Test\obj\Debug\lbja2Test.pdb
+G:\测试项目\lbja2Test\lbja2Test\obj\Debug\lbja2Test.csprojResolveAssemblyReference.cache

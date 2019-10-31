@@ -1,0 +1,9 @@
+G:\测试项目\lbja2Test\EF-test\bin\Debug\EF-test.exe.config
+G:\测试项目\lbja2Test\EF-test\bin\Debug\EF-test.exe
+G:\测试项目\lbja2Test\EF-test\bin\Debug\EF-test.pdb
+G:\测试项目\lbja2Test\EF-test\bin\Debug\EntityFramework.dll
+G:\测试项目\lbja2Test\EF-test\bin\Debug\EntityFramework.xml
+G:\测试项目\lbja2Test\EF-test\bin\Debug\zh-Hans\EntityFramework.resources.dll
+G:\测试项目\lbja2Test\EF-test\obj\Debug\EF-test.exe
+G:\测试项目\lbja2Test\EF-test\obj\Debug\EF-test.pdb
+G:\测试项目\lbja2Test\EF-test\obj\Debug\EF-test.csprojResolveAssemblyReference.cache

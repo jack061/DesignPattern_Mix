@@ -1,0 +1,55 @@
+﻿#Header
+{
+    height: 70px;
+    background-image: url(../Images/logo_left.png);
+}
+#HeaderLogo
+{
+    float: left;
+    margin-top: 15px;
+    margin-left: 30px;
+    background: url(/Themes/Images/bmslogo.png);
+    height: 52px;
+    width: 419px;
+    display: inline;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='bmslogo.png', sizingMethod='crop');
+}
+
+#Headermenu
+{
+    float: right;
+    margin-right: 2px;
+}
+#Headerbotton
+{
+    height: 23px;
+    padding-top: 2px;
+    border-bottom: 1px solid #ccc;
+    background-image: url(../Images/index/Headerbotton.png);
+}
+#Content
+{
+    margin: 0px auto;
+    height: 100%;
+    overflow: hidden;
+    padding: 1px;
+}
+#left_title
+{
+    float: left;
+    height: 100%;
+    text-align: center;
+    width: 180px;
+    line-height: 20px;
+    color: #222;
+    font-weight: bold;
+}
+#conten_title
+{
+    height: 100%;
+    text-align: left;
+    line-height: 20px;
+    padding-left: 1px;
+    color: #222;
+    font-weight: bold;
+}

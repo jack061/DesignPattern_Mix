@@ -1,0 +1,10 @@
+G:\测试项目\lbja2Test\客户端\bin\Debug\客户端.exe.config
+G:\测试项目\lbja2Test\客户端\bin\Debug\客户端.exe
+G:\测试项目\lbja2Test\客户端\bin\Debug\客户端.pdb
+G:\测试项目\lbja2Test\客户端\obj\Debug\客户端.Properties.Resources.resources
+G:\测试项目\lbja2Test\客户端\obj\Debug\客户端.csproj.GenerateResource.Cache
+G:\测试项目\lbja2Test\客户端\obj\Debug\客户端.exe
+G:\测试项目\lbja2Test\客户端\obj\Debug\客户端.pdb
+G:\测试项目\lbja2Test\客户端\obj\Debug\客户端.Form1.resources
+G:\测试项目\lbja2Test\客户端\obj\Debug\客户端.Client2.resources
+G:\测试项目\lbja2Test\客户端\obj\Debug\客户端.csprojResolveAssemblyReference.cache

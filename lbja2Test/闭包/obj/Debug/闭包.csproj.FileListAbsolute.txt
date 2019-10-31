@@ -1,0 +1,5 @@
+G:\测试项目\lbja2Test\闭包\bin\Debug\闭包.exe.config
+G:\测试项目\lbja2Test\闭包\bin\Debug\闭包.exe
+G:\测试项目\lbja2Test\闭包\bin\Debug\闭包.pdb
+G:\测试项目\lbja2Test\闭包\obj\Debug\闭包.exe
+G:\测试项目\lbja2Test\闭包\obj\Debug\闭包.pdb

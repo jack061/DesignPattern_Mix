@@ -1,0 +1,280 @@
+﻿*{ margin:0;padding:0}
+body
+{
+    padding:5px;
+            font-size: 12px;
+            /*width: 100%;*/
+            background-color: #FFFFFF;
+        }
+.searchHeadDiv
+{
+    border: 1px solid #8DB2E3;
+    font-size: 12px;
+    height: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 4px 0 0 4px;
+    width: 894;
+    background-color: #E0ECFF;
+}
+ .searchHeadDiv1
+{
+    border: 1px solid #8DB2E3;
+    font-size: 12px;
+    list-style-type: none;
+    margin: 0;
+    padding: 4px 0 0 4px;
+    /*width: 100%;*/
+    background-color: #E0ECFF;
+}
+        
+.btabs,.btabs_product,.btabs_pack
+{
+    border: 1px solid #8DB2E3;
+    font-size: 12px;
+    height: 26px;
+    list-style-type: none;
+    margin: 0;
+    padding: 4px 0 0 4px;
+    /*width: 100%;*/   /*避免出现横向滚动条*/
+    background-color: #E0ECFF;
+}
+.btabsdetail
+{
+    border: 1px solid #8DB2E3;
+    font-size: 12px;
+    height: 26px;
+    list-style-type: none;
+    margin: 0;
+    padding: 4px 0 0 4px;
+    width: 99%;
+    background-color: #E0ECFF;
+}
+.selColor2
+{
+    background-color: #EFF3FB;
+}
+.selColor3
+{
+    background-color: White;
+}
+.selColor4
+{
+    background-color: #E0ECFF;
+}
+        
+.searchpanle
+{
+    border: 1px solid #8DB2E3;
+    font-size: 12px;
+    height: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 4px 0 0 4px;
+    width: 100%;
+    background-color: #E0ECFF;
+}
+.style3
+{
+    width: 70px;
+    height: 33px;
+}
+.style4
+{
+    width: 171px;
+    height: 33px;
+}
+.style7
+{
+    width: 160px;
+    height: 33px;
+}
+.tables
+{
+}
+.tables table, .tables table td
+{
+    border: 1px solid #aaa;
+}
+.tables1
+{
+}
+.tables1 table, .tables1 table td
+{
+    border: 0px solid #aaa;
+}
+        
+        
+        
+/**表格 begin**/
+.grid
+{
+    margin: 0px;
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
+}
+.grid thead td
+{
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    border-right: 1px dotted #ccc;
+    background: url(../Images/index/datagrid_header_bg.gif) repeat-x;
+    text-align: left;
+    padding: 5px 1px;
+    font-weight: normal;
+    text-overflow:ellipsis; 
+    word-break:keep-all;
+    overflow:hidden;
+}
+.grid tbody td
+{
+    text-align: left;
+    border-bottom: 1px dotted #ccc;
+    border-right: 1px dotted #ccc;
+    padding: 1px 1px;
+    height: 20px;
+    word-break: break-all;
+}
+.grid tbody .alt
+{
+    background: #F7F7F7;
+}
+.grid tbody .selected
+{
+    background2: #D0E5F5;
+    background1: #FBEC88;
+    background: #e0eccc;
+}
+/*当鼠标放在行上时的颜色*/
+.grid tbody .trhover
+{
+    background2: #D0E5F5;
+    background1: #FBEC88;
+    background: #e0eccc;
+}
+
+.tableval
+{
+    margin: 0px;
+    border-collapse: collapse;
+    width: 100%;
+}
+.tableval tbody tr th
+{
+    background: url(../Images/index/datagrid_header_bg.gif) repeat-x;
+    border-bottom: 1px solid #ccc;
+    border-right: 1px dotted #ccc;
+    padding: 4px 2px;
+    font-weight: normal;
+    text-align: left;
+}
+.tableval tbody tr td
+{
+    text-align: left;
+    border-bottom: 1px solid #ccc;
+    padding: 1px 2px;
+}
+/**表格 end**/
+
+/*全选*/
+#checkAllOff
+{
+    padding-left: 20px;
+    background: url(../Images/index/checkAllOff.gif) no-repeat scroll 4px 2px;
+    cursor: pointer;
+}
+/*反选*/
+#checkAllOn
+{
+    padding-left: 20px;
+    background: url(../Images/index/checkAllOn.gif) no-repeat scroll 4px 2px;
+    cursor: pointer;
+}
+
+/**标题行**/
+.header_l{width:30%;height:50px;}
+.logo{
+	background-image:url();
+	display:inline-block;
+	width:200px;
+	height:50px;
+}
+.header_c{width:40%;height:50px;vertical-align:middle;}
+.title{font-family: '宋体 Bold', '宋体';font-weight: 700;font-size: 22px;width: 100%;display: inline-block;text-align: center;}
+.header_r{width:30%;height:50px;vertical-align:bottom;}
+.r_label{
+	font-size:12px;font-family: '宋体 Bold', '宋体';position: relative;top: 25px;width:45%;display:inline-block;text-align:right;padding-right:5px;z-index:999;
+}
+.r_label_r{
+	font-size:12px;font-family: '宋体 Bold', '宋体';position: relative;top: 25px;width:45%;display:inline-block;text-align:right;padding-right:5px;z-index:999;
+}
+.r_label_warrang{
+	font-size:14px !important;font-weight:700;font-family: '宋体 Bold', '宋体';display:block;text-align:right;padding-right:10%;color:red;
+}
+.r_label_warrang img {cursor:pointer;}
+.r_label_t{font-size:12px;font-family: '宋体 Bold', '宋体';padding-right:3px;}
+
+/**表格定义**/
+.layout_t{background-color:#ccc;font-size:13px;table-layout:fixed;word-break:break-all}
+.layout_t_r{background-color:white;}
+.layout_t_r td{height:30px;word-wrap:break-word;}
+
+/**六列布局**/
+.td1_6,.td3_6,.td5_6{width:13%;text-align:right;padding-right:3px;background-color:#f6fafd;}
+.td2_6,.td4_6,.td6_6{width:20%;text-align:left;padding-left:3px;}
+.td_cospan6{width:100%;text-align:left;padding-left:3px;}
+.td_subReport{width:100%;text-align:left;padding-left:-1px;}
+.td_cospan4-6{width:53%;text-align:left;padding-left:3px;}
+.td_cospan2-6{width:87%;text-align:left;padding-left:3px;}
+/**四列布局**/
+.td1_4,.td3_4{width:15%;text-align:right;padding-right:3px;background-color:#f6fafd;}
+.td2_4,.td4_4{width:35%;text-align:left;padding-left:3px;}
+.td1_4_data,.td3_4_data{width:15%;text-align:left;padding-left:3px}
+.td_cospan3-4{width:50%;text-align:left;padding-left:3px;}
+.td_cospan2-4{width:85%;text-align:left;padding-left:3px;}
+.td_cospan4-4{width:100%;text-align:right;padding-right:3px;}
+/**单列布局**/
+.td1_1_odd{width:100%;text-align:center;background-color:#eee;font-weight:700;}
+.td1_1_even{width:100%;text-align:center;background-color:#fff;}
+
+.spea_line{height:20px !important; line-height:20px !important;}
+
+/*fileset*/
+fieldset {padding: 0;margin: 0;border: 0;margin-bottom: 10px}
+legend 
+{display: block;
+ width: 100%;
+ padding: 0;
+ margin-bottom: 5px;
+ font-size: 16px;
+ line-height: inherit;
+ color: #333333;
+ border: 0;
+ border-bottom: 1px solid #e5e5e5;}
+legend >.color
+{
+    display: block;
+    width: 200px;
+    padding: 0;
+    font-size: 16px;
+    line-height: inherit;
+    color: #333333;
+    border: 0;
+    border-bottom: 1px solid #e5e5e5;
+    background: -moz-linear-gradient(top, #E6E6FA 0%, #ffffff 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#E6E6FA), color-stop(100%,#ffffff));
+    background: -webkit-linear-gradient(top, #E6E6FA 0%,#ffffff 100%);
+    background: -o-linear-gradient(top, #E6E6FA 0%,#ffffff 100%);
+    background: -ms-linear-gradient(top, #E6E6FA 0%,#ffffff 100%);
+    background: linear-gradient(to bottom, #E6E6FA 0%,#ffffff 100%);
+ }
+
+.field_bule legend {
+	margin: 0px;
+	border-bottom: 0px;
+    border-left: 5px solid #2D81DD;
+    padding-left: 0px;
+    width: 100%;
+    
+}

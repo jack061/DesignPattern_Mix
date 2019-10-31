@@ -1,0 +1,8 @@
+G:\测试项目\lbja2Test\Socket编程\bin\Debug\Socket编程.exe.config
+G:\测试项目\lbja2Test\Socket编程\bin\Debug\Socket编程.exe
+G:\测试项目\lbja2Test\Socket编程\bin\Debug\Socket编程.pdb
+G:\测试项目\lbja2Test\Socket编程\obj\Debug\Socket编程.exe
+G:\测试项目\lbja2Test\Socket编程\obj\Debug\Socket编程.pdb
+G:\测试项目\lbja2Test\Socket编程\obj\Debug\Socket编程.Client.resources
+G:\测试项目\lbja2Test\Socket编程\obj\Debug\Socket编程.csproj.GenerateResource.Cache
+G:\测试项目\lbja2Test\Socket编程\obj\Debug\Socket编程.csprojResolveAssemblyReference.cache

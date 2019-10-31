@@ -1,0 +1,12 @@
+G:\设计模式sln\DesignPattern\html原型\bin\html原型.dll.config
+G:\设计模式sln\DesignPattern\html原型\bin\html原型.dll
+G:\设计模式sln\DesignPattern\html原型\bin\html原型.pdb
+G:\设计模式sln\DesignPattern\html原型\obj\Debug\html原型.csprojResolveAssemblyReference.cache
+G:\设计模式sln\DesignPattern\html原型\obj\Debug\html原型.dll
+G:\设计模式sln\DesignPattern\html原型\obj\Debug\html原型.pdb
+G:\测试项目\设计模式sln\DesignPattern\html原型\bin\html原型.dll.config
+G:\测试项目\设计模式sln\DesignPattern\html原型\bin\html原型.dll
+G:\测试项目\设计模式sln\DesignPattern\html原型\bin\html原型.pdb
+G:\测试项目\设计模式sln\DesignPattern\html原型\obj\Debug\html原型.csprojResolveAssemblyReference.cache
+G:\测试项目\设计模式sln\DesignPattern\html原型\obj\Debug\html原型.dll
+G:\测试项目\设计模式sln\DesignPattern\html原型\obj\Debug\html原型.pdb

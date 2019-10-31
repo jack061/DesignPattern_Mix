@@ -1,0 +1,6 @@
+G:\测试项目\lbja2Test\抽象工厂设计模式\bin\Debug\抽象工厂设计模式.exe.config
+G:\测试项目\lbja2Test\抽象工厂设计模式\bin\Debug\抽象工厂设计模式.exe
+G:\测试项目\lbja2Test\抽象工厂设计模式\bin\Debug\抽象工厂设计模式.pdb
+G:\测试项目\lbja2Test\抽象工厂设计模式\obj\Debug\抽象工厂设计模式.exe
+G:\测试项目\lbja2Test\抽象工厂设计模式\obj\Debug\抽象工厂设计模式.pdb
+G:\测试项目\lbja2Test\抽象工厂设计模式\obj\Debug\抽象工厂设计模式.csprojResolveAssemblyReference.cache

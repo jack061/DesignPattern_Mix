@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ZtTradingModelStoreContainer" CdmEntityContainer="ZtTradingEntities">
+    <EntitySetMapping Name="Econtract_uploadPath">
+      <EntityTypeMapping TypeName="ZtTradingModel.Econtract_uploadPath">
+        <MappingFragment StoreEntitySet="Econtract_uploadPath">
+          <ScalarProperty Name="contractNo" ColumnName="contractNo" />
+          <ScalarProperty Name="filePath" ColumnName="filePath" />
+          <ScalarProperty Name="createman" ColumnName="createman" />
+          <ScalarProperty Name="createdate" ColumnName="createdate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,10 @@
+G:\设计模式sln\DesignPattern\策略模式\bin\Debug\策略模式.exe.config
+G:\设计模式sln\DesignPattern\策略模式\bin\Debug\策略模式.exe
+G:\设计模式sln\DesignPattern\策略模式\bin\Debug\策略模式.pdb
+G:\设计模式sln\DesignPattern\策略模式\obj\Debug\策略模式.exe
+G:\设计模式sln\DesignPattern\策略模式\obj\Debug\策略模式.pdb
+G:\测试项目\设计模式sln\DesignPattern\策略模式\bin\Debug\策略模式.exe.config
+G:\测试项目\设计模式sln\DesignPattern\策略模式\bin\Debug\策略模式.exe
+G:\测试项目\设计模式sln\DesignPattern\策略模式\bin\Debug\策略模式.pdb
+G:\测试项目\设计模式sln\DesignPattern\策略模式\obj\Debug\策略模式.exe
+G:\测试项目\设计模式sln\DesignPattern\策略模式\obj\Debug\策略模式.pdb

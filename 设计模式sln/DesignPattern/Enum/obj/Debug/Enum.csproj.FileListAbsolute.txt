@@ -1,0 +1,6 @@
+G:\测试项目\设计模式sln\DesignPattern\Enum\bin\Debug\Enum.exe.config
+G:\测试项目\设计模式sln\DesignPattern\Enum\bin\Debug\Enum.exe
+G:\测试项目\设计模式sln\DesignPattern\Enum\bin\Debug\Enum.pdb
+G:\测试项目\设计模式sln\DesignPattern\Enum\obj\Debug\Enum.csprojResolveAssemblyReference.cache
+G:\测试项目\设计模式sln\DesignPattern\Enum\obj\Debug\Enum.exe
+G:\测试项目\设计模式sln\DesignPattern\Enum\obj\Debug\Enum.pdb

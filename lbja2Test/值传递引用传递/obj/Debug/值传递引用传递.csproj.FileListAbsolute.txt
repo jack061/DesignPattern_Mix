@@ -1,0 +1,5 @@
+G:\测试项目\lbja2Test\值传递引用传递\bin\Debug\值传递引用传递.exe.config
+G:\测试项目\lbja2Test\值传递引用传递\bin\Debug\值传递引用传递.exe
+G:\测试项目\lbja2Test\值传递引用传递\bin\Debug\值传递引用传递.pdb
+G:\测试项目\lbja2Test\值传递引用传递\obj\Debug\值传递引用传递.exe
+G:\测试项目\lbja2Test\值传递引用传递\obj\Debug\值传递引用传递.pdb

@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="jquery-easyui-1.4.5/jquery.min.js"></script>
+    <script type="text/javascript">
+        window.onload = function () {
+            var tds = $('#tb td');
+            for (var i = 0; i < tds.length; i++) {
+                tds[i].onclick = function () {
+                    for (var j = 0; j < tds.length; j++) {
+                        tds[j].innerHTML = '★';
+                        if (tds[j].cellIndex>this.cellIndex) {
+                            tds[j].innerHTML = '☆';
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body>
+    <table border="1" width="200" id="tb">
+        <tr>
+            <td style="font-size:30px">☆</td>
+            <td style="font-size:30px">☆</td>
+            <td style="font-size:30px">☆</td>
+            <td style="font-size:30px">☆</td>
+            <td style="font-size:30px">☆</td>
+        </tr>
+    </table>
+</body>
+</html>

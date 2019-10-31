@@ -1,0 +1,14 @@
+G:\my dll\ReflectionTest\ReflectionTest\bin\Debug\ReflectionTest.exe.config
+G:\my dll\ReflectionTest\ReflectionTest\bin\Debug\ReflectionTest.exe
+G:\my dll\ReflectionTest\ReflectionTest\bin\Debug\ReflectionTest.pdb
+G:\my dll\ReflectionTest\ReflectionTest\bin\Debug\IEditorInterface.dll
+G:\my dll\ReflectionTest\ReflectionTest\bin\Debug\IEditorInterface.pdb
+G:\my dll\ReflectionTest\ReflectionTest\obj\Debug\ReflectionTest.csprojResolveAssemblyReference.cache
+G:\my dll\ReflectionTest\ReflectionTest\obj\Debug\ReflectionTest.Form1.resources
+G:\my dll\ReflectionTest\ReflectionTest\obj\Debug\ReflectionTest.Form2.resources
+G:\my dll\ReflectionTest\ReflectionTest\obj\Debug\ReflectionTest.Form3.resources
+G:\my dll\ReflectionTest\ReflectionTest\obj\Debug\ReflectionTest.Properties.Resources.resources
+G:\my dll\ReflectionTest\ReflectionTest\obj\Debug\ReflectionTest.UserControl1.resources
+G:\my dll\ReflectionTest\ReflectionTest\obj\Debug\ReflectionTest.csproj.GenerateResource.Cache
+G:\my dll\ReflectionTest\ReflectionTest\obj\Debug\ReflectionTest.exe
+G:\my dll\ReflectionTest\ReflectionTest\obj\Debug\ReflectionTest.pdb

@@ -1,0 +1,6 @@
+G:\测试项目\lbja2Test\foreach遍历\bin\Debug\foreach遍历.exe.config
+G:\测试项目\lbja2Test\foreach遍历\bin\Debug\foreach遍历.exe
+G:\测试项目\lbja2Test\foreach遍历\bin\Debug\foreach遍历.pdb
+G:\测试项目\lbja2Test\foreach遍历\obj\Debug\foreach遍历.exe
+G:\测试项目\lbja2Test\foreach遍历\obj\Debug\foreach遍历.pdb
+G:\测试项目\lbja2Test\foreach遍历\obj\Debug\foreach遍历.csprojResolveAssemblyReference.cache

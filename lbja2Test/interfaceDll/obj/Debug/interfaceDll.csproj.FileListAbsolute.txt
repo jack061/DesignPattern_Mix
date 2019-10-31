@@ -1,0 +1,5 @@
+G:\测试项目\lbja2Test\interfaceDll\bin\Debug\interfaceDll.dll
+G:\测试项目\lbja2Test\interfaceDll\bin\Debug\interfaceDll.pdb
+G:\测试项目\lbja2Test\interfaceDll\obj\Debug\interfaceDll.dll
+G:\测试项目\lbja2Test\interfaceDll\obj\Debug\interfaceDll.pdb
+G:\测试项目\lbja2Test\interfaceDll\obj\Debug\interfaceDll.csprojResolveAssemblyReference.cache

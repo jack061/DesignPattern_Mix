@@ -1,0 +1,11 @@
+G:\测试项目\lbja2Test\reflectionTest\bin\Debug\reflectionTest.exe.config
+G:\测试项目\lbja2Test\reflectionTest\bin\Debug\reflectionTest.exe
+G:\测试项目\lbja2Test\reflectionTest\bin\Debug\reflectionTest.pdb
+G:\测试项目\lbja2Test\reflectionTest\obj\Debug\reflectionTest.csprojResolveAssemblyReference.cache
+G:\测试项目\lbja2Test\reflectionTest\obj\Debug\reflectionTest.Form1.resources
+G:\测试项目\lbja2Test\reflectionTest\obj\Debug\reflectionTest.Properties.Resources.resources
+G:\测试项目\lbja2Test\reflectionTest\obj\Debug\reflectionTest.csproj.GenerateResource.Cache
+G:\测试项目\lbja2Test\reflectionTest\obj\Debug\reflectionTest.exe
+G:\测试项目\lbja2Test\reflectionTest\obj\Debug\reflectionTest.pdb
+G:\测试项目\lbja2Test\reflectionTest\bin\Debug\interfaceDll.dll
+G:\测试项目\lbja2Test\reflectionTest\bin\Debug\interfaceDll.pdb

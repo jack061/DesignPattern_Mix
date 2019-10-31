@@ -1,0 +1,7 @@
+G:\my dll\ReflectionTest\RefelectionDll\bin\Debug\RefelectionDll.dll
+G:\my dll\ReflectionTest\RefelectionDll\bin\Debug\RefelectionDll.pdb
+G:\my dll\ReflectionTest\RefelectionDll\bin\Debug\IEditorInterface.dll
+G:\my dll\ReflectionTest\RefelectionDll\bin\Debug\IEditorInterface.pdb
+G:\my dll\ReflectionTest\RefelectionDll\obj\Debug\RefelectionDll.csprojResolveAssemblyReference.cache
+G:\my dll\ReflectionTest\RefelectionDll\obj\Debug\RefelectionDll.dll
+G:\my dll\ReflectionTest\RefelectionDll\obj\Debug\RefelectionDll.pdb

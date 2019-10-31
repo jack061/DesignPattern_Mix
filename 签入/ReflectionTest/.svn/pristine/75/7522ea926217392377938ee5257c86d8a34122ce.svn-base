@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CustomerEntity>
+  <!--客户编码-->
+  <code>111</code>
+  <!--客户简称-->
+  <shortname>测试</shortname>
+  <!--客户名称-->
+  <name>中泰测试</name>
+  <!--中文地址-->
+  <address>新疆乌鲁木齐39号</address>
+  <!--英文名称-->
+  <egname></egname>
+  <!--英文地址-->
+  <egaddress></egaddress>
+  <!--俄文名称-->
+  <rsname></rsname>
+  <!--俄文地址-->
+  <rsaddress></rsaddress>
+  <!--货币-->
+  <currency>CNY</currency>
+  <!--性质-->
+  <property>自营出口</property>
+  <!--备注-->
+  <remark></remark>
+  <!--业务员-->
+  <salesman>admin</salesman>
+  <!--单位名称-->
+  <icnname>中国外贸金融租赁有限公司</icnname>
+  <!--纳税人识别号-->
+  <icncreditcode>913702030530547000</icncreditcode>
+  <!--单位地址-->
+  <icnaddress>北京市海淀区三里河路1号北京市西苑饭店11号楼</icnaddress>
+  <!--单位电话-->
+  <icnphone>15810812163</icnphone>
+  <!--开户行-->
+  <icnbank>中国银行股份有限公司北京金融中心支行</icnbank>
+  <!--开户行账号-->
+  <icnaccount>322056023738</icnaccount>
+  <!--标识位,1为新增,2为修改-->
+  <flag>1</flag>
+</CustomerEntity>
+
+

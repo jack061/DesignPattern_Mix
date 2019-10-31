@@ -1,0 +1,5 @@
+G:\测试项目\lbja2Test\动态类型\bin\Debug\动态类型.exe.config
+G:\测试项目\lbja2Test\动态类型\bin\Debug\动态类型.exe
+G:\测试项目\lbja2Test\动态类型\bin\Debug\动态类型.pdb
+G:\测试项目\lbja2Test\动态类型\obj\Debug\动态类型.exe
+G:\测试项目\lbja2Test\动态类型\obj\Debug\动态类型.pdb

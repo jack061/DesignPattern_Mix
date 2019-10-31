@@ -1,0 +1,17 @@
+G:\my dll\myDll\myDll\bin\Debug\myDll.dll
+G:\my dll\myDll\myDll\bin\Debug\myDll.pdb
+G:\my dll\myDll\myDll\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\my dll\myDll\myDll\bin\Debug\itextsharp.dll
+G:\my dll\myDll\myDll\bin\Debug\itextsharp.xmlworker.dll
+G:\my dll\myDll\myDll\bin\Debug\Newtonsoft.Json.dll
+G:\my dll\myDll\myDll\bin\Debug\NPOI.dll
+G:\my dll\myDll\myDll\bin\Debug\NPOI.OOXML.dll
+G:\my dll\myDll\myDll\bin\Debug\NPOI.OpenXml4Net.dll
+G:\my dll\myDll\myDll\bin\Debug\NPOI.OpenXmlFormats.dll
+G:\my dll\myDll\myDll\bin\Debug\Pechkin.dll
+G:\my dll\myDll\myDll\bin\Debug\Pechkin.Synchronized.dll
+G:\my dll\myDll\myDll\bin\Debug\NPOI.xml
+G:\my dll\myDll\myDll\bin\Debug\NPOI.OOXML.xml
+G:\my dll\myDll\myDll\bin\Debug\NPOI.OpenXml4Net.xml
+G:\my dll\myDll\myDll\obj\Debug\myDll.dll
+G:\my dll\myDll\myDll\obj\Debug\myDll.pdb

@@ -1,0 +1,12 @@
+G:\设计模式sln\DesignPattern\冒泡排序\bin\Debug\冒泡排序.exe.config
+G:\设计模式sln\DesignPattern\冒泡排序\bin\Debug\冒泡排序.exe
+G:\设计模式sln\DesignPattern\冒泡排序\bin\Debug\冒泡排序.pdb
+G:\设计模式sln\DesignPattern\冒泡排序\obj\Debug\冒泡排序.csprojResolveAssemblyReference.cache
+G:\设计模式sln\DesignPattern\冒泡排序\obj\Debug\冒泡排序.exe
+G:\设计模式sln\DesignPattern\冒泡排序\obj\Debug\冒泡排序.pdb
+G:\测试项目\设计模式sln\DesignPattern\冒泡排序\bin\Debug\冒泡排序.exe.config
+G:\测试项目\设计模式sln\DesignPattern\冒泡排序\obj\Debug\冒泡排序.exe
+G:\测试项目\设计模式sln\DesignPattern\冒泡排序\obj\Debug\冒泡排序.pdb
+G:\测试项目\设计模式sln\DesignPattern\冒泡排序\bin\Debug\冒泡排序.exe
+G:\测试项目\设计模式sln\DesignPattern\冒泡排序\bin\Debug\冒泡排序.pdb
+G:\测试项目\设计模式sln\DesignPattern\冒泡排序\obj\Debug\冒泡排序.csprojResolveAssemblyReference.cache

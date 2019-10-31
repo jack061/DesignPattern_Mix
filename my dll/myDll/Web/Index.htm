@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script type="text/javascript">
+        function fullwin() {
+            //window.top.location.href = "Frame/Login.htm";
+            //return false;
+            var target = "Frame/login.html";
+            newwindow = window.open("", "_blank", "toolbar=no,menubar=no,scrollbars=yes, resizable=yes,location=no, status=no,top=0,left=0");
+            newwindow.moveTo(0, 0);
+            newwindow.location = target
+            newwindow.resizeTo(window.screen.availWidth, window.screen.availHeight)
+          
+            closeWin();
+
+            return false;
+        }
+        //关闭当前页面
+        function closeWin() {
+            window.opener = null;
+            window.open('', '_self');
+            window.close();
+        }
+        function fullwin2() {
+            //window.top.location.href = "Frame/Login.htm";
+            //return false;
+            var target = "Frame/Login.html";
+            window.location = target;
+            window.moveTo(0, 0);
+            window.location = target;
+            window.resizeTo(window.screen.availWidth, window.screen.availHeight);
+            return true;
+        }
+    </script>
+</head>
+<body onload="return fullwin2()" >
+</body>
+</html>

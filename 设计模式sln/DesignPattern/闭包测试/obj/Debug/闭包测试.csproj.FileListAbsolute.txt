@@ -1,0 +1,6 @@
+G:\设计模式sln\DesignPattern\闭包测试\bin\Debug\闭包测试.exe.config
+G:\设计模式sln\DesignPattern\闭包测试\bin\Debug\闭包测试.exe
+G:\设计模式sln\DesignPattern\闭包测试\bin\Debug\闭包测试.pdb
+G:\设计模式sln\DesignPattern\闭包测试\obj\Debug\闭包测试.csprojResolveAssemblyReference.cache
+G:\设计模式sln\DesignPattern\闭包测试\obj\Debug\闭包测试.exe
+G:\设计模式sln\DesignPattern\闭包测试\obj\Debug\闭包测试.pdb

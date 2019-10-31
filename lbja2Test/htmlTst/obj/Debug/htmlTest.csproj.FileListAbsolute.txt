@@ -1,0 +1,5 @@
+G:\测试项目\lbja2Test\htmlTst\bin\Debug\htmlTst.exe.config
+G:\测试项目\lbja2Test\htmlTst\bin\Debug\htmlTst.exe
+G:\测试项目\lbja2Test\htmlTst\bin\Debug\htmlTst.pdb
+G:\测试项目\lbja2Test\htmlTst\obj\Debug\htmlTst.exe
+G:\测试项目\lbja2Test\htmlTst\obj\Debug\htmlTst.pdb

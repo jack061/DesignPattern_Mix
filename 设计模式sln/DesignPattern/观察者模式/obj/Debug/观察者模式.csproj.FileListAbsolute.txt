@@ -1,0 +1,12 @@
+G:\设计模式sln\DesignPattern\观察者模式\bin\Debug\观察者模式.exe.config
+G:\设计模式sln\DesignPattern\观察者模式\bin\Debug\观察者模式.exe
+G:\设计模式sln\DesignPattern\观察者模式\bin\Debug\观察者模式.pdb
+G:\设计模式sln\DesignPattern\观察者模式\obj\Debug\观察者模式.exe
+G:\设计模式sln\DesignPattern\观察者模式\obj\Debug\观察者模式.pdb
+G:\设计模式sln\DesignPattern\观察者模式\obj\Debug\观察者模式.csprojResolveAssemblyReference.cache
+G:\测试项目\设计模式sln\DesignPattern\观察者模式\bin\Debug\观察者模式.exe.config
+G:\测试项目\设计模式sln\DesignPattern\观察者模式\bin\Debug\观察者模式.exe
+G:\测试项目\设计模式sln\DesignPattern\观察者模式\bin\Debug\观察者模式.pdb
+G:\测试项目\设计模式sln\DesignPattern\观察者模式\obj\Debug\观察者模式.exe
+G:\测试项目\设计模式sln\DesignPattern\观察者模式\obj\Debug\观察者模式.pdb
+G:\测试项目\设计模式sln\DesignPattern\观察者模式\obj\Debug\观察者模式.csprojResolveAssemblyReference.cache

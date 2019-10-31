@@ -1,0 +1,47 @@
+<html>
+ <head>
+  <script type="text/javascript" src="jquery-easyui-1.4.5/jquery.min.js"></script>
+   <style type="text/css">
+    #parent{
+  position:absolute;
+  left:200px;
+  width:400px;
+  height:300px;
+  border:1px solid red;
+  cursor:pointer
+  }
+  #panel{
+  position:relative;
+  left:200px;
+  width:100px;
+  height:100px;
+  border:1px solid #0050D0;
+  background:#96E555;
+  cursor:pointer
+  }
+   #panel2{
+  position:relative;
+  left:350px;
+  width:100px;
+  height:100px;
+  border:1px solid #0050D0;
+  background:blue;
+  cursor:pointer
+  }
+  </style>
+ <script type="text/javascript">
+ $(function(){
+  $("#panel").click(function(){
+$(this).css({"left":"10px"});
+  })
+ })
+ </script>
+ </head>
+ <body>
+ <div id="parent">
+ <div id="panel">panel</div>
+<div id="panel2">panel2</div>
+ </div>
+
+ </body>
+ </html>

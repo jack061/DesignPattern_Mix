@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <script src="js/jquery.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $("input[type='button']").bind("click", function () {
+                //alert($("#textarea1").val());
+                var ss = $("#textarea1").val();
+                $.post('ashx/htmlOpearotr.ashx?module=saveLine', { textarea1: ss }, function (data) {
+
+                })
+            });
+    
+        })
+    </script>
+</head>
+<body>
+    <textarea multiple="multiple" id="textarea1" value="" width="100" height="100"></textarea>
+    <input type="button" name="show" id="show" value="显示" />
+</body>
+</html>

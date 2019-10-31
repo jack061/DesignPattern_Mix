@@ -1,0 +1,6 @@
+G:\测试项目\设计模式sln\DesignPattern\泛型类继承\bin\Debug\泛型类继承.exe.config
+G:\测试项目\设计模式sln\DesignPattern\泛型类继承\bin\Debug\泛型类继承.exe
+G:\测试项目\设计模式sln\DesignPattern\泛型类继承\bin\Debug\泛型类继承.pdb
+G:\测试项目\设计模式sln\DesignPattern\泛型类继承\obj\Debug\泛型类继承.csprojResolveAssemblyReference.cache
+G:\测试项目\设计模式sln\DesignPattern\泛型类继承\obj\Debug\泛型类继承.exe
+G:\测试项目\设计模式sln\DesignPattern\泛型类继承\obj\Debug\泛型类继承.pdb

@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <script src="js/jquery.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $('.parent').click(function () {
+                //$(this).toggleClass('selected').siblings('.child_' + this.id).toggle();
+                $(this).siblings('.child_' + this.id).toggle();
+            });
+        })
+    </script>
+</head>
+<body>
+    <table style="border:1px solid">
+        <thead>
+            <tr>
+                <th>姓名</th>
+                <th>性别</th>
+                <th>暂住地</th>
+            </tr>
+        </thead>
+        <tr class="parent selected" id="row_01">
+            <td colspan="3">前台设计组</td>
+        </tr>
+        <tr class="child_row_01"><td>张山</td><td>男</td><td>浙江杭州</td></tr>
+    </table>
+</body>
+</html>

@@ -1,0 +1,6 @@
+G:\my dll\ReflectionTest\RM\bin\RM.dll.config
+G:\my dll\ReflectionTest\RM\bin\RM.dll
+G:\my dll\ReflectionTest\RM\bin\RM.pdb
+G:\my dll\ReflectionTest\RM\obj\Debug\RM.dll
+G:\my dll\ReflectionTest\RM\obj\Debug\RM.pdb
+G:\my dll\ReflectionTest\RM\obj\Debug\RM.csprojResolveAssemblyReference.cache

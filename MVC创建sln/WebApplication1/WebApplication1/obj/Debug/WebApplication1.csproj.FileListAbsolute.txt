@@ -1,0 +1,5 @@
+G:\MVC创建sln\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+G:\MVC创建sln\WebApplication1\WebApplication1\bin\WebApplication1.dll
+G:\MVC创建sln\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+G:\MVC创建sln\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+G:\MVC创建sln\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

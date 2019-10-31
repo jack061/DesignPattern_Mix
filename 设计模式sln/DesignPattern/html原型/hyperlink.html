@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <script src="js/jquery.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $(".tooltip").mouseover(function (e) {
+                this.myTitle = this.title;
+                this.title = "";
+                var tooltip = "<div id='tooltip'>" + this.myTitle + "dfds</div>";
+                $(this).parent().append(tooltip);
+                $("#tooltip").css({
+                    "top": e.pageY + "px",
+                    "left": e.pageX + "px"
+                }).show("fast");
+            }).mouseout(function () {
+                this.title = this.myTitle;
+                $("#tooltip").remove();
+            });
+        })
+    </script>
+</head>
+<body>
+    <p><a href="#" class="tooltip" title="这是我的超链接提示1">提示1</a></p>
+    <p><a href="#" class="tooltip" title="这是我的超链接提示2">提示2</a></p>
+    <p><a href="#" title="自带提示1">提示1</a></p>
+    <p><a href="#" title="自带提示2">提示2</a></p>
+</body>
+</html>

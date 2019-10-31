@@ -1,0 +1,7 @@
+G:\测试项目\lbja2Test\reflectionDll\obj\Debug\reflectionDll.csprojResolveAssemblyReference.cache
+G:\测试项目\lbja2Test\reflectionDll\bin\Debug\reflectionDll.dll
+G:\测试项目\lbja2Test\reflectionDll\bin\Debug\reflectionDll.pdb
+G:\测试项目\lbja2Test\reflectionDll\bin\Debug\interfaceDll.dll
+G:\测试项目\lbja2Test\reflectionDll\bin\Debug\interfaceDll.pdb
+G:\测试项目\lbja2Test\reflectionDll\obj\Debug\reflectionDll.dll
+G:\测试项目\lbja2Test\reflectionDll\obj\Debug\reflectionDll.pdb

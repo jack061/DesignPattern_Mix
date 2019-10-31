@@ -1,0 +1,4 @@
+G:\my dll\ReflectionTest\IEditorInterface\bin\Debug\IEditorInterface.dll
+G:\my dll\ReflectionTest\IEditorInterface\bin\Debug\IEditorInterface.pdb
+G:\my dll\ReflectionTest\IEditorInterface\obj\Debug\IEditorInterface.dll
+G:\my dll\ReflectionTest\IEditorInterface\obj\Debug\IEditorInterface.pdb

@@ -1,0 +1,28 @@
+G:\my dll\ReflectionTest\ReflectionTest\bin\Debug\ReflectionTest.exe.config
+G:\my dll\ReflectionTest\ReflectionTest\bin\Debug\ReflectionTest.exe
+G:\my dll\ReflectionTest\ReflectionTest\bin\Debug\ReflectionTest.pdb
+G:\my dll\ReflectionTest\ReflectionTest\bin\Debug\IEditorInterface.dll
+G:\my dll\ReflectionTest\ReflectionTest\bin\Debug\IEditorInterface.pdb
+G:\my dll\ReflectionTest\ReflectionTest\obj\Debug\ReflectionTest.csprojResolveAssemblyReference.cache
+G:\my dll\ReflectionTest\ReflectionTest\obj\Debug\ReflectionTest.Form1.resources
+G:\my dll\ReflectionTest\ReflectionTest\obj\Debug\ReflectionTest.Form2.resources
+G:\my dll\ReflectionTest\ReflectionTest\obj\Debug\ReflectionTest.Form3.resources
+G:\my dll\ReflectionTest\ReflectionTest\obj\Debug\ReflectionTest.Properties.Resources.resources
+G:\my dll\ReflectionTest\ReflectionTest\obj\Debug\ReflectionTest.UserControl1.resources
+G:\my dll\ReflectionTest\ReflectionTest\obj\Debug\ReflectionTest.csproj.GenerateResource.Cache
+G:\my dll\ReflectionTest\ReflectionTest\obj\Debug\ReflectionTest.exe
+G:\my dll\ReflectionTest\ReflectionTest\obj\Debug\ReflectionTest.pdb
+G:\测试项目\签入\ReflectionTest\ReflectionTest\bin\Debug\ReflectionTest.exe.config
+G:\测试项目\签入\ReflectionTest\ReflectionTest\obj\Debug\ReflectionTest.exe
+G:\测试项目\签入\ReflectionTest\ReflectionTest\obj\Debug\ReflectionTest.pdb
+G:\测试项目\签入\ReflectionTest\ReflectionTest\bin\Debug\ReflectionTest.exe
+G:\测试项目\签入\ReflectionTest\ReflectionTest\bin\Debug\ReflectionTest.pdb
+G:\测试项目\签入\ReflectionTest\ReflectionTest\bin\Debug\IEditorInterface.dll
+G:\测试项目\签入\ReflectionTest\ReflectionTest\bin\Debug\IEditorInterface.pdb
+G:\测试项目\签入\ReflectionTest\ReflectionTest\obj\Debug\ReflectionTest.csprojResolveAssemblyReference.cache
+G:\测试项目\签入\ReflectionTest\ReflectionTest\obj\Debug\ReflectionTest.Form1.resources
+G:\测试项目\签入\ReflectionTest\ReflectionTest\obj\Debug\ReflectionTest.Form2.resources
+G:\测试项目\签入\ReflectionTest\ReflectionTest\obj\Debug\ReflectionTest.Form3.resources
+G:\测试项目\签入\ReflectionTest\ReflectionTest\obj\Debug\ReflectionTest.Properties.Resources.resources
+G:\测试项目\签入\ReflectionTest\ReflectionTest\obj\Debug\ReflectionTest.UserControl1.resources
+G:\测试项目\签入\ReflectionTest\ReflectionTest\obj\Debug\ReflectionTest.csproj.GenerateResource.Cache

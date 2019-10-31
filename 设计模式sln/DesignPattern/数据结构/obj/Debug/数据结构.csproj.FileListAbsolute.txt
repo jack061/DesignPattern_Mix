@@ -1,0 +1,6 @@
+G:\测试项目\设计模式sln\DesignPattern\数据结构\bin\Debug\数据结构.exe.config
+G:\测试项目\设计模式sln\DesignPattern\数据结构\bin\Debug\数据结构.exe
+G:\测试项目\设计模式sln\DesignPattern\数据结构\bin\Debug\数据结构.pdb
+G:\测试项目\设计模式sln\DesignPattern\数据结构\obj\Debug\数据结构.csprojResolveAssemblyReference.cache
+G:\测试项目\设计模式sln\DesignPattern\数据结构\obj\Debug\数据结构.exe
+G:\测试项目\设计模式sln\DesignPattern\数据结构\obj\Debug\数据结构.pdb

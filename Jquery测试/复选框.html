@@ -1,0 +1,38 @@
+<html>
+ <head>
+  <script type="text/javascript" src="jquery-easyui-1.4.5/jquery.min.js"></script>
+   <style type="text/css">
+   
+  </style>
+ <script type="text/javascript">
+ $(function(){
+ $("#checkAll").click(function(){
+  $("input[name='items']").prop("checked",true);
+ })
+ $("#checkNo").click(function(){
+ $("input:checkbox").prop("checked",false);
+ })
+ $("#checkReverse").click(function(){
+ $("input:checkbox").each(function(){
+ $(this).prop("checked",!$(this).is(":checked"));
+ })
+ })
+ })
+ </script>
+ </head>
+ <body>
+<form>
+what is you favorite sport?<br/>
+<input type="checkbox"  name="items"  value="football"/>football
+<input type="checkbox"  name="items"  value="basketball"/>basketball
+<input type="checkbox"  name="items"  value="pingpang"/>pingpang
+<input type="checkbox"  name="items"  value="running"/>running
+<input type="checkbox"  name="items"  value="fitness"/>fitness
+<input type="checkbox"  name="items"  value="swim"/>swim
+<input type="button" id="checkAll" value="checkAll"/>
+<input type="button" id="checkNo" value="checkNo">
+<input type="button" id="checkReverse" value="checkReverse"/>
+<input type="button" id="send" value="submit"/>
+</form>
+ </body>
+ </html>

@@ -1,0 +1,5 @@
+G:\测试项目\lbja2Test\委托和事件\bin\Debug\委托和事件.exe.config
+G:\测试项目\lbja2Test\委托和事件\bin\Debug\委托和事件.exe
+G:\测试项目\lbja2Test\委托和事件\bin\Debug\委托和事件.pdb
+G:\测试项目\lbja2Test\委托和事件\obj\Debug\委托和事件.exe
+G:\测试项目\lbja2Test\委托和事件\obj\Debug\委托和事件.pdb

@@ -1,0 +1,43 @@
+D:\项目009-国际贸易\03 源码\trunk\src\RM\RM.Common\bin\Debug\RM.Common.dll
+D:\项目009-国际贸易\03 源码\trunk\src\RM\RM.Common\bin\Debug\RM.Common.pdb
+D:\项目009-国际贸易\03 源码\trunk\src\RM\RM.Common\bin\Debug\Newtonsoft.Json.dll
+D:\项目009-国际贸易\03 源码\trunk\src\RM\RM.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\项目009-国际贸易\03 源码\trunk\src\RM\RM.Common\obj\Debug\RM.Common.dll
+D:\项目009-国际贸易\03 源码\trunk\src\RM\RM.Common\obj\Debug\RM.Common.pdb
+D:\项目009-国际贸易\03 源码\trunk\src\RM\RM.Common\bin\Debug\Newtonsoft.Json.pdb
+D:\项目009-国际贸易\03 源码\trunk\src\RM\RM.Common\bin\Debug\Newtonsoft.Json.xml
+E:\Workspace\Csharpworkspace\vs2010\ZtTrading\trunk\src\RM\RM.Common\bin\Debug\RM.Common.dll
+E:\Workspace\Csharpworkspace\vs2010\ZtTrading\trunk\src\RM\RM.Common\bin\Debug\RM.Common.pdb
+E:\Workspace\Csharpworkspace\vs2010\ZtTrading\trunk\src\RM\RM.Common\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Workspace\Csharpworkspace\vs2010\ZtTrading\trunk\src\RM\RM.Common\bin\Debug\Newtonsoft.Json.dll
+E:\Workspace\Csharpworkspace\vs2010\ZtTrading\trunk\src\RM\RM.Common\bin\Debug\NPOI.dll
+E:\Workspace\Csharpworkspace\vs2010\ZtTrading\trunk\src\RM\RM.Common\bin\Debug\NPOI.OOXML.dll
+E:\Workspace\Csharpworkspace\vs2010\ZtTrading\trunk\src\RM\RM.Common\bin\Debug\NPOI.OpenXml4Net.dll
+E:\Workspace\Csharpworkspace\vs2010\ZtTrading\trunk\src\RM\RM.Common\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\Workspace\Csharpworkspace\vs2010\ZtTrading\trunk\src\RM\RM.Common\bin\Debug\Newtonsoft.Json.pdb
+E:\Workspace\Csharpworkspace\vs2010\ZtTrading\trunk\src\RM\RM.Common\bin\Debug\Newtonsoft.Json.xml
+E:\Workspace\Csharpworkspace\vs2010\ZtTrading\trunk\src\RM\RM.Common\bin\Debug\NPOI.xml
+E:\Workspace\Csharpworkspace\vs2010\ZtTrading\trunk\src\RM\RM.Common\bin\Debug\NPOI.OOXML.xml
+E:\Workspace\Csharpworkspace\vs2010\ZtTrading\trunk\src\RM\RM.Common\bin\Debug\NPOI.OpenXml4Net.xml
+E:\Workspace\Csharpworkspace\vs2010\ZtTrading\trunk\src\RM\RM.Common\obj\Debug\RM.Common.dll
+E:\Workspace\Csharpworkspace\vs2010\ZtTrading\trunk\src\RM\RM.Common\obj\Debug\RM.Common.pdb
+E:\Workspace\Csharpworkspace\vs2010\ZtTrading\trunk\src\RM\RM.Common\obj\Debug\RM.Common.csprojResolveAssemblyReference.cache
+H:\中泰2.2\trunk\src\RM\RM.Common\bin\Debug\RM.Common.dll
+H:\中泰2.2\trunk\src\RM\RM.Common\bin\Debug\RM.Common.pdb
+H:\中泰2.2\trunk\src\RM\RM.Common\bin\Debug\ICSharpCode.SharpZipLib.dll
+H:\中泰2.2\trunk\src\RM\RM.Common\bin\Debug\itextsharp.dll
+H:\中泰2.2\trunk\src\RM\RM.Common\bin\Debug\itextsharp.xmlworker.dll
+H:\中泰2.2\trunk\src\RM\RM.Common\bin\Debug\Newtonsoft.Json.dll
+H:\中泰2.2\trunk\src\RM\RM.Common\bin\Debug\NPOI.dll
+H:\中泰2.2\trunk\src\RM\RM.Common\bin\Debug\NPOI.OOXML.dll
+H:\中泰2.2\trunk\src\RM\RM.Common\bin\Debug\NPOI.OpenXml4Net.dll
+H:\中泰2.2\trunk\src\RM\RM.Common\bin\Debug\NPOI.OpenXmlFormats.dll
+H:\中泰2.2\trunk\src\RM\RM.Common\bin\Debug\Pechkin.dll
+H:\中泰2.2\trunk\src\RM\RM.Common\bin\Debug\Pechkin.Synchronized.dll
+H:\中泰2.2\trunk\src\RM\RM.Common\bin\Debug\Newtonsoft.Json.pdb
+H:\中泰2.2\trunk\src\RM\RM.Common\bin\Debug\Newtonsoft.Json.xml
+H:\中泰2.2\trunk\src\RM\RM.Common\bin\Debug\NPOI.xml
+H:\中泰2.2\trunk\src\RM\RM.Common\bin\Debug\NPOI.OOXML.xml
+H:\中泰2.2\trunk\src\RM\RM.Common\bin\Debug\NPOI.OpenXml4Net.xml
+H:\中泰2.2\trunk\src\RM\RM.Common\obj\Debug\RM.Common.dll
+H:\中泰2.2\trunk\src\RM\RM.Common\obj\Debug\RM.Common.pdb

@@ -1,0 +1,4 @@
+G:\my dll\myDll\WZX.Model\bin\Debug\WZX.Model.dll
+G:\my dll\myDll\WZX.Model\bin\Debug\WZX.Model.pdb
+G:\my dll\myDll\WZX.Model\obj\Debug\WZX.Model.dll
+G:\my dll\myDll\WZX.Model\obj\Debug\WZX.Model.pdb

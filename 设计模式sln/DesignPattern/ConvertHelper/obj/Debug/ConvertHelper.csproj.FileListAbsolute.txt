@@ -1,0 +1,5 @@
+G:\测试项目\设计模式sln\DesignPattern\ConvertHelper\bin\Debug\ConvertHelper.exe.config
+G:\测试项目\设计模式sln\DesignPattern\ConvertHelper\bin\Debug\ConvertHelper.exe
+G:\测试项目\设计模式sln\DesignPattern\ConvertHelper\bin\Debug\ConvertHelper.pdb
+G:\测试项目\设计模式sln\DesignPattern\ConvertHelper\obj\Debug\ConvertHelper.exe
+G:\测试项目\设计模式sln\DesignPattern\ConvertHelper\obj\Debug\ConvertHelper.pdb

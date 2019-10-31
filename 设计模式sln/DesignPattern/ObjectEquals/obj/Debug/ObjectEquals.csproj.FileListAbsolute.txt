@@ -1,0 +1,5 @@
+G:\测试项目\设计模式sln\DesignPattern\ObjectEquals\bin\Debug\ObjectEquals.exe.config
+G:\测试项目\设计模式sln\DesignPattern\ObjectEquals\bin\Debug\ObjectEquals.exe
+G:\测试项目\设计模式sln\DesignPattern\ObjectEquals\bin\Debug\ObjectEquals.pdb
+G:\测试项目\设计模式sln\DesignPattern\ObjectEquals\obj\Debug\ObjectEquals.exe
+G:\测试项目\设计模式sln\DesignPattern\ObjectEquals\obj\Debug\ObjectEquals.pdb

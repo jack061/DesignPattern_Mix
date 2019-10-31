@@ -1,0 +1,10 @@
+G:\设计模式sln\DesignPattern\中介者模式\bin\Debug\中介者模式.exe.config
+G:\设计模式sln\DesignPattern\中介者模式\bin\Debug\中介者模式.exe
+G:\设计模式sln\DesignPattern\中介者模式\bin\Debug\中介者模式.pdb
+G:\设计模式sln\DesignPattern\中介者模式\obj\Debug\中介者模式.exe
+G:\设计模式sln\DesignPattern\中介者模式\obj\Debug\中介者模式.pdb
+G:\测试项目\设计模式sln\DesignPattern\中介者模式\bin\Debug\中介者模式.exe.config
+G:\测试项目\设计模式sln\DesignPattern\中介者模式\bin\Debug\中介者模式.exe
+G:\测试项目\设计模式sln\DesignPattern\中介者模式\bin\Debug\中介者模式.pdb
+G:\测试项目\设计模式sln\DesignPattern\中介者模式\obj\Debug\中介者模式.exe
+G:\测试项目\设计模式sln\DesignPattern\中介者模式\obj\Debug\中介者模式.pdb

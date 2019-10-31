@@ -1,0 +1,15 @@
+G:\测试项目\设计模式sln\DesignPattern\委托\bin\Debug\委托.exe.config
+G:\测试项目\设计模式sln\DesignPattern\委托\bin\Debug\委托.exe
+G:\测试项目\设计模式sln\DesignPattern\委托\bin\Debug\委托.pdb
+G:\测试项目\设计模式sln\DesignPattern\委托\bin\Debug\RM.Busines.dll
+G:\测试项目\设计模式sln\DesignPattern\委托\bin\Debug\RM.Common.dll
+G:\测试项目\设计模式sln\DesignPattern\委托\bin\Debug\RM.DataBase.dll
+G:\测试项目\设计模式sln\DesignPattern\委托\bin\Debug\Newtonsoft.Json.dll
+G:\测试项目\设计模式sln\DesignPattern\委托\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\测试项目\设计模式sln\DesignPattern\委托\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\测试项目\设计模式sln\DesignPattern\委托\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+G:\测试项目\设计模式sln\DesignPattern\委托\bin\Debug\Microsoft.Practices.Unity.dll
+G:\测试项目\设计模式sln\DesignPattern\委托\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+G:\测试项目\设计模式sln\DesignPattern\委托\obj\Debug\委托.csprojResolveAssemblyReference.cache
+G:\测试项目\设计模式sln\DesignPattern\委托\obj\Debug\委托.exe
+G:\测试项目\设计模式sln\DesignPattern\委托\obj\Debug\委托.pdb

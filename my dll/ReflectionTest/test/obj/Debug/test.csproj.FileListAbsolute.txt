@@ -1,0 +1,9 @@
+G:\my dll\ReflectionTest\test\bin\Debug\test.exe.config
+G:\my dll\ReflectionTest\test\bin\Debug\test.exe
+G:\my dll\ReflectionTest\test\bin\Debug\test.pdb
+G:\my dll\ReflectionTest\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+G:\my dll\ReflectionTest\test\obj\Debug\test.exe
+G:\my dll\ReflectionTest\test\obj\Debug\test.pdb
+G:\测试项目\my dll\ReflectionTest\test\bin\Debug\test.exe.config
+G:\测试项目\my dll\ReflectionTest\test\obj\Debug\test.exe
+G:\测试项目\my dll\ReflectionTest\test\obj\Debug\test.pdb

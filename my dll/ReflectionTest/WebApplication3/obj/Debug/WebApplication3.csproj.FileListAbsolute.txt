@@ -1,0 +1,6 @@
+G:\my dll\ReflectionTest\WebApplication3\bin\WebApplication3.dll.config
+G:\my dll\ReflectionTest\WebApplication3\bin\WebApplication3.dll
+G:\my dll\ReflectionTest\WebApplication3\bin\WebApplication3.pdb
+G:\my dll\ReflectionTest\WebApplication3\obj\Debug\WebApplication3.csprojResolveAssemblyReference.cache
+G:\my dll\ReflectionTest\WebApplication3\obj\Debug\WebApplication3.dll
+G:\my dll\ReflectionTest\WebApplication3\obj\Debug\WebApplication3.pdb

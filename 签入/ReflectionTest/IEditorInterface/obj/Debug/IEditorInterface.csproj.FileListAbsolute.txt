@@ -1,0 +1,9 @@
+G:\my dll\ReflectionTest\IEditorInterface\bin\Debug\IEditorInterface.dll
+G:\my dll\ReflectionTest\IEditorInterface\bin\Debug\IEditorInterface.pdb
+G:\my dll\ReflectionTest\IEditorInterface\obj\Debug\IEditorInterface.dll
+G:\my dll\ReflectionTest\IEditorInterface\obj\Debug\IEditorInterface.pdb
+G:\测试项目\签入\ReflectionTest\IEditorInterface\bin\Debug\IEditorInterface.dll
+G:\测试项目\签入\ReflectionTest\IEditorInterface\bin\Debug\IEditorInterface.pdb
+G:\测试项目\签入\ReflectionTest\IEditorInterface\obj\Debug\IEditorInterface.csprojResolveAssemblyReference.cache
+G:\测试项目\签入\ReflectionTest\IEditorInterface\obj\Debug\IEditorInterface.dll
+G:\测试项目\签入\ReflectionTest\IEditorInterface\obj\Debug\IEditorInterface.pdb

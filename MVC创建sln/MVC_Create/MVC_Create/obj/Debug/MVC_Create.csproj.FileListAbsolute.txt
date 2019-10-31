@@ -1,0 +1,5 @@
+G:\MVC创建sln\MVC_Create\MVC_Create\bin\MVC_Create.dll.config
+G:\MVC创建sln\MVC_Create\MVC_Create\bin\MVC_Create.dll
+G:\MVC创建sln\MVC_Create\MVC_Create\bin\MVC_Create.pdb
+G:\MVC创建sln\MVC_Create\MVC_Create\obj\Debug\MVC_Create.dll
+G:\MVC创建sln\MVC_Create\MVC_Create\obj\Debug\MVC_Create.pdb

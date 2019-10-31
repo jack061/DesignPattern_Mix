@@ -1,0 +1,5 @@
+G:\测试项目\lbja2Test\IL初探\bin\Debug\IL初探.exe.config
+G:\测试项目\lbja2Test\IL初探\bin\Debug\IL初探.exe
+G:\测试项目\lbja2Test\IL初探\bin\Debug\IL初探.pdb
+G:\测试项目\lbja2Test\IL初探\obj\Debug\IL初探.exe
+G:\测试项目\lbja2Test\IL初探\obj\Debug\IL初探.pdb
